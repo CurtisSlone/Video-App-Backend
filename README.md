@@ -1,7 +1,7 @@
 # Video Back-End with Node.js
 API to push User data to React FrontEnd Video App
 
-### MONDODB Atlas used for DB
+### MONGODB Atlas used for DB
 
 ## Heroku Hosting
 ```console
