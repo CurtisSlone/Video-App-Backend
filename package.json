@@ -1,0 +1,19 @@
+{
+  "name": "video-backend",
+  "version": "1.0.0",
+  "description": "Short video app backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CurtisSlone/Video-App-Backend.git"
+  },
+  "author": "Curtis Slone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CurtisSlone/Video-App-Backend/issues"
+  },
+  "homepage": "https://github.com/CurtisSlone/Video-App-Backend#readme"
+}
